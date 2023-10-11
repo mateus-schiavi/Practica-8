@@ -1,1 +1,1 @@
-//main --dev --test
+//main --dev --test --prod
